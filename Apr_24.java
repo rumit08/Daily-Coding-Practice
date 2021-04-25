@@ -2,7 +2,6 @@ package daily.coding.practice;
 
 import java.util.regex.Pattern;
 
-/*https://www.hackerrank.com/challenges/strong-password/problem*/
 public class Apr_24 {
 	public static void main(String arg[]){
 		String s="#HackerRank";
