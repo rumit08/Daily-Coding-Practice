@@ -11,7 +11,7 @@ public class Apr_25 {
 		Map<Character,Integer> map=new HashMap<>();
 		for(int i=0;i<tmp.length();i++){
 			if(tmp.charAt(i)!=' ' && !map.containsKey(tmp.charAt(i))){
-				map.put(tmp.charAt(i),1);;
+				map.put(tmp.charAt(i),1);
 			}
 		}
 		System.out.println(map.size());
